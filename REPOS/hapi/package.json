@@ -38,15 +38,15 @@
     "@hapi/validate": "^1.1.1"
   },
   "devDependencies": {
-    "@hapi/code": "^8.0.0",
-    "@hapi/inert": "^6.0.2",
-    "@hapi/joi-legacy-test": "npm:@hapi/joi@^15.0.0",
-    "@hapi/lab": "^24.2.0",
-    "@hapi/vision": "^6.0.1",
-    "@hapi/wreck": "^17.0.0",
-    "handlebars": "^4.7.4",
-    "joi": "^17.0.0",
-    "legacy-readable-stream": "npm:readable-stream@^1.0.34"
+    "@hapi/code": "8.0.3",
+    "@hapi/inert": "6.0.3",
+    "@hapi/joi-legacy-test": "npm:@hapi/joi@15.1.1",
+    "@hapi/lab": "24.2.1",
+    "@hapi/vision": "6.0.1",
+    "@hapi/wreck": "17.1.0",
+    "handlebars": "4.7.7",
+    "joi": "17.4.0",
+    "legacy-readable-stream": "npm:readable-stream@1.1.14"
   },
   "scripts": {
     "test": "lab -a @hapi/code -t 100 -L -m 5000",

@@ -254,9 +254,10 @@ brunch-skeletons@~0.1.4:
   version "0.1.6"
   resolved "https://registry.yarnpkg.com/brunch-skeletons/-/brunch-skeletons-0.1.6.tgz#f15102a1b6babc964ce3d7e3c141dc0daa9d28ac"
 
-brunch@^2.9.1:
+brunch@2.10.12:
   version "2.10.12"
   resolved "https://registry.yarnpkg.com/brunch/-/brunch-2.10.12.tgz#3aa0c515c216beb2e53a0c35a30546d0a04cee50"
+  integrity sha512-6tm4aSYiBkkHjDWXXlnu58wxRUeTcTaEG0jFTQBEp7gx/t61M8ynfG2RTxd9lhiAkDZJ2brNIuhy3MThFy2a7A==
   dependencies:
     anymatch "~1.3"
     anysort "~1.0"
@@ -1156,9 +1157,10 @@ isstream@~0.1.2:
   version "0.1.2"
   resolved "https://registry.yarnpkg.com/isstream/-/isstream-0.1.2.tgz#47e63f7af55afa6f92e1500e690eb8b8529c099a"
 
-javascript-brunch@^2.0.0:
+javascript-brunch@2.10.0:
   version "2.10.0"
   resolved "https://registry.yarnpkg.com/javascript-brunch/-/javascript-brunch-2.10.0.tgz#826920035b4368f14a678254d15f83e2f4101172"
+  integrity sha1-gmkgA1tDaPFKZ4JU0V+D4vQQEXI=
   dependencies:
     esprima "~3.0.0"
 

@@ -11,7 +11,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "object-assign": "^4.1.1",
+    "object-assign": "4.1.1",
     "react-reconciler": "*",
     "react-client": "*",
     "react-server": "*"

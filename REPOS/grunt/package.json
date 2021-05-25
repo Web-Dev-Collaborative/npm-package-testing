@@ -54,13 +54,13 @@
     "rimraf": "~3.0.2"
   },
   "devDependencies": {
-    "difflet": "~1.0.1",
-    "eslint-config-grunt": "~1.0.1",
-    "grunt-contrib-nodeunit": "~3.0.0",
-    "grunt-contrib-watch": "~1.1.0",
-    "grunt-eslint": "~18.1.0",
-    "temporary": "~0.0.4",
-    "through2": "~4.0.2"
+    "difflet": "1.0.1",
+    "eslint-config-grunt": "1.0.1",
+    "grunt-contrib-nodeunit": "3.0.0",
+    "grunt-contrib-watch": "1.1.0",
+    "grunt-eslint": "18.1.0",
+    "temporary": "0.0.8",
+    "through2": "4.0.2"
   },
   "files": [
     "lib",

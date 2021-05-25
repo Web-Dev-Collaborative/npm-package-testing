@@ -6,8 +6,8 @@
     "pug"
   ],
   "dependencies": {
-    "constantinople": "^4.0.1",
-    "js-stringify": "^1.0.2",
+    "constantinople": "4.0.1",
+    "js-stringify": "1.0.2",
     "pug-runtime": "^2.0.5"
   },
   "files": [

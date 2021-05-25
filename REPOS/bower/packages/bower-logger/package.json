@@ -15,8 +15,8 @@
     "node": ">=0.10.0"
   },
   "devDependencies": {
-    "expect.js": "~0.2.0",
-    "mocha": "^3.5.3"
+    "expect.js": "0.2.0",
+    "mocha": "3.5.3"
   },
   "scripts": {
     "test": "mocha -R spec"

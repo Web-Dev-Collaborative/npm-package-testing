@@ -528,9 +528,10 @@ supports-color@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/supports-color/-/supports-color-2.0.0.tgz#535d045ce6b6363fa40117084629995e9df324c7"
 
-systemjs-builder@^0.15.34:
+systemjs-builder@0.15.36:
   version "0.15.36"
   resolved "https://registry.yarnpkg.com/systemjs-builder/-/systemjs-builder-0.15.36.tgz#30b02372d4227cf37880f580fe67cb4edb7f1420"
+  integrity sha1-MLAjctQifPN4gPWA/mfLTtt/FCA=
   dependencies:
     babel-core "^6.9.0"
     babel-plugin-transform-cjs-system-wrapper "^0.3.0"

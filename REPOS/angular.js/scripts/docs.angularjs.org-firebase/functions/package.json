@@ -13,12 +13,12 @@
     "logs": "firebase functions:log"
   },
   "dependencies": {
-    "firebase-admin": "^9.4.2",
-    "firebase-functions": "^3.13.1"
+    "firebase-admin": "9.4.2",
+    "firebase-functions": "3.13.1"
   },
   "devDependencies": {
-    "eslint": "^7.19.0",
-    "eslint-plugin-promise": "^4.2.1"
+    "eslint": "7.19.0",
+    "eslint-plugin-promise": "4.2.1"
   },
   "private": true
 }

@@ -198,8 +198,8 @@
     "yamljs": "0.3.0"
   },
   "devDependencies": {
-    "mocha": "^7.1.0",
-    "should": "^13"
+    "mocha": "7.2.0",
+    "should": "13.2.3"
   },
   "bugs": {
     "url": "https://github.com/Unitech/pm2/issues"

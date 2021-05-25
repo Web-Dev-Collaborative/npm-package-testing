@@ -6,7 +6,7 @@
     "pug"
   ],
   "devDependencies": {
-    "uglify-js": "^2.6.1"
+    "uglify-js": "2.8.29"
   },
   "files": [
     "build.js",
